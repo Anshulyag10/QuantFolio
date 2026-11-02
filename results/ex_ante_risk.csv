@@ -1,0 +1,21 @@
+,value
+Expected return (ann.),0.08853248043904405
+Volatility (ann.),0.07910587143032764
+Sharpe (ex-ante),0.6169261466517911
+Herfindahl (HHI),0.29403361958267715
+Effective N (1/HHI),3.4009716352140384
+Diversification ratio,1.7118025331609517
+VaR 95% 1d (historical),0.006811505189413484
+CVaR 95% 1d (historical),0.011155237613363704
+VaR 95% 1d (gaussian),0.007522539105167005
+CVaR 95% 1d (gaussian),0.009586669544116746
+VaR 95% 1d (cornish_fisher),0.007033247827882323
+CVaR 95% 1d (cornish_fisher),0.016106937342155757
+VaR 99% 1d (historical),0.013882147736502863
+CVaR 99% 1d (historical),0.01845915183733323
+VaR 99% 1d (gaussian),0.010888967521349515
+CVaR 99% 1d (gaussian),0.012562891112577397
+VaR 99% 1d (cornish_fisher),0.021127822742986038
+CVaR 99% 1d (cornish_fisher),0.03342131373968667
+"VaR 95% 1d ($, historical)",681.1505189413484
+"CVaR 95% 1d ($, historical)",1115.5237613363704

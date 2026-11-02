@@ -1,0 +1,14 @@
+# not part of the published code
+presentation/
+report/
+
+# caches and local artefacts
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db

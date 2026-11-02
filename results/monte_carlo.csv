@@ -1,0 +1,10 @@
+,value
+Expected terminal value,105304.52284795337
+Median terminal value,105253.94149209947
+5th percentile value,90257.54203375221
+95th percentile value,121151.8001875522
+P(loss),0.288
+Horizon VaR 95%,0.0974245796624779
+Horizon CVaR 95%,0.13878258640134128
+P(max drawdown > 20%),0.0218
+Median max drawdown,-0.07497028206610162
